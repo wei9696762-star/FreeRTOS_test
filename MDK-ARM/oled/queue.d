@@ -1,0 +1,15 @@
+oled\queue.o: ..\FreeRTOS\Src\queue.c
+oled\queue.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oled\queue.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+oled\queue.o: ../FreeRTOS/Inc/FreeRTOS.h
+oled\queue.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\queue.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\queue.o: ../FreeRTOS/port/FreeRTOSConfig.h
+oled\queue.o: ../FreeRTOS/Inc/projdefs.h
+oled\queue.o: ../FreeRTOS/Inc/portable.h
+oled\queue.o: ../FreeRTOS/Inc/deprecated_definitions.h
+oled\queue.o: ../FreeRTOS/port/portmacro.h
+oled\queue.o: ../FreeRTOS/Inc/mpu_wrappers.h
+oled\queue.o: ../FreeRTOS/Inc/task.h
+oled\queue.o: ../FreeRTOS/Inc/list.h
+oled\queue.o: ../FreeRTOS/Inc/queue.h

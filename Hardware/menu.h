@@ -1,0 +1,19 @@
+#ifndef __MENU_H__
+#define __MENU_H__
+void Show_Chinese(void);
+void Show_Clock_UI(void);
+int First_Page_Clock(void);
+void Show_SettingPage_UI(void);
+int SettingPage(void);
+int Menu(void);
+void MenuToFunction(void);
+int StopWatch(void);
+void StopWatch_Tick(void);
+int LED(void);
+void Show_LED_UI(void);
+void Show_MPU6050_UI(void);
+int MPU6050(void);
+int Game(void);
+int Emoji(void);
+int Gradienter(void);
+#endif

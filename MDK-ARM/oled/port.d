@@ -1,0 +1,12 @@
+oled\port.o: ..\FreeRTOS\port\port.c
+oled\port.o: ../FreeRTOS/Inc/FreeRTOS.h
+oled\port.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\port.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\port.o: ../FreeRTOS/port/FreeRTOSConfig.h
+oled\port.o: ../FreeRTOS/Inc/projdefs.h
+oled\port.o: ../FreeRTOS/Inc/portable.h
+oled\port.o: ../FreeRTOS/Inc/deprecated_definitions.h
+oled\port.o: ../FreeRTOS/port/portmacro.h
+oled\port.o: ../FreeRTOS/Inc/mpu_wrappers.h
+oled\port.o: ../FreeRTOS/Inc/task.h
+oled\port.o: ../FreeRTOS/Inc/list.h

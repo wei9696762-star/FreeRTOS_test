@@ -1,0 +1,16 @@
+oled\tasks.o: ..\FreeRTOS\Src\tasks.c
+oled\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oled\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+oled\tasks.o: ../FreeRTOS/Inc/FreeRTOS.h
+oled\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+oled\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+oled\tasks.o: ../FreeRTOS/port/FreeRTOSConfig.h
+oled\tasks.o: ../FreeRTOS/Inc/projdefs.h
+oled\tasks.o: ../FreeRTOS/Inc/portable.h
+oled\tasks.o: ../FreeRTOS/Inc/deprecated_definitions.h
+oled\tasks.o: ../FreeRTOS/port/portmacro.h
+oled\tasks.o: ../FreeRTOS/Inc/mpu_wrappers.h
+oled\tasks.o: ../FreeRTOS/Inc/task.h
+oled\tasks.o: ../FreeRTOS/Inc/list.h
+oled\tasks.o: ../FreeRTOS/Inc/timers.h
+oled\tasks.o: ../FreeRTOS/Inc/stack_macros.h
